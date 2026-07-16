@@ -19,4 +19,4 @@ Proyek ini merupakan dummy project dalam hal pipeline Extract, Transform, Load (
 
 ## Eksekusi
 1. Pastikan Python 3.8+ dan library Pandas telah terinstal di lingkungan eksekusi.
-2. Jalankan perintah instalasi dalam Terminal jika belum terinstal:
+2. Jalankan perintah instalasi dalam Terminal jika belum terinstal.
